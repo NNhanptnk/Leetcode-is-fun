@@ -10,3 +10,11 @@ Let me know if you want me to try any problem !
 > Core thought : Think about a zigzac <br>
 
 Similar problem : Wiggle Sort, Wiggle Sort II
+
+
+### Sliding-window problem 
+
+**Problem 219** : Contain Duplicate II <br>
+> Core thought : Think about a zigzac <br>
+
+Similar problem : Contain Duplicate III
