@@ -5,7 +5,7 @@ Let me know if you want me to try any problem !
 
 ### Array problem 
 
-**Problem 28** : 8. Find the Index of the First Occurrence in a String <br>
+**Problem 28** : Find the Index of the First Occurrence in a String <br>
 > Core thought : Brute force <br>
 > Optimization thought : <br>
 
