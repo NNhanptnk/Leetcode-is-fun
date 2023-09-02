@@ -3,6 +3,12 @@
 I am trying to document the solution from solving Leetcode frequently. <br>
 Let me know if you want me to try any problem !
 
+### Array problem 
+
+**28** : 8. Find the Index of the First Occurrence in a String <br>
+> Core thought : Brute force <br>
+> Optimization thought : <br>
+Similar problem : Shortest Palindrome, Repeated Substring Pattern
 
 ### Two-pointer problem 
 
