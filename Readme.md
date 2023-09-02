@@ -3,8 +3,9 @@
 I am trying to document the solution from solving Leetcode frequently. <br>
 Let me know if you want me to try any problem !
 
-### Array problem 
-------
+---
+
+## Array problem 
 
 **Problem 28** : Find the Index of the First Occurrence in a String <br>
 > Core thought : Brute force <br>
@@ -12,8 +13,9 @@ Let me know if you want me to try any problem !
 
 Similar problem : Shortest Palindrome, Repeated Substring Pattern
 
-### Two-pointer problem 
-------
+---
+
+## Two-pointer problem 
 
 **Problem 1968** : Array With Elements Not Equal to Average of Neighbors <br>
 > Core thought : Think about a zigzac <br>
@@ -25,8 +27,9 @@ Similar problem : Wiggle Sort, Wiggle Sort II
 
 Similar problem : Two Sum IV - Input is a BST, Two Sum Less Than K
 
-### Sliding-window problem 
-------
+---
+
+## Sliding-window problem 
 
 **Problem 219** : Contain Duplicate II <br>
 > Core thought : Hashmap, what happen when you encounter nums[i]==nums[j] (i \< j) <br>
