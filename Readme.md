@@ -15,6 +15,6 @@ Similar problem : Wiggle Sort, Wiggle Sort II
 ### Sliding-window problem 
 
 **Problem 219** : Contain Duplicate II <br>
-> Core thought : Hashmap, what happen when you encounter nums[i]==nums[j] (i \<j) <br>
+> Core thought : Hashmap, what happen when you encounter nums[i]==nums[j] (i \< j) <br>
 
 Similar problem : Contain Duplicate III
