@@ -27,6 +27,12 @@ Similar problem : Wiggle Sort, Wiggle Sort II
 
 Similar problem : Two Sum IV - Input is a BST, Two Sum Less Than K
 
+**Problem 881** : Boats to save people <br>
+> Core thought : Sorting then squeeze (read code for better explanation) 
+
+Similar problem : Find the most Competitive Subsequence, <br>
+Find the maximum number of marked indices, Two City Scheduling
+
 ---
 
 ## Sliding-window problem 
