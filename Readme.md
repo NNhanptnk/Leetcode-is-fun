@@ -13,6 +13,12 @@ Let me know if you want me to try any problem !
 
 Similar problem : Shortest Palindrome, Repeated Substring Pattern
 
+**Problem 58** : Length of Last Word <br>
+> Core thought : Going this way <- <br>
+
+Similar problem : Basic Calculator, Goal Parser Interpretation
+Substrings That Begin and End With the Same Letter
+
 ---
 
 ## Two-pointer problem 
