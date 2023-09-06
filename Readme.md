@@ -47,6 +47,3 @@ Find the maximum number of marked indices, Two City Scheduling
 > Core thought : Hashmap, what happen when you encounter nums[i]==nums[j] (i \< j) <br>
 
 Similar problem : Contain Duplicate III
-
-
-### Binary search
