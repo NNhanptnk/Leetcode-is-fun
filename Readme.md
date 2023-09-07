@@ -39,6 +39,11 @@ Similar problem : Two Sum IV - Input is a BST, Two Sum Less Than K
 Similar problem : Find the most Competitive Subsequence, <br>
 Find the maximum number of marked indices, Two City Scheduling
 
+**Problem 283** : Move Zeroes <br>
+> Core thought : Imagine a snowball roll down the hill 
+
+Similar problem : Remove Element, Apply Operations to an Array
+
 ---
 
 ## Sliding-window problem 
